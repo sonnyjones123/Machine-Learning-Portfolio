@@ -2,7 +2,7 @@
 
 ---
 
-### Reinforcement Learning Specialization (University of Alberta & Alberta Machine intelligence Institute) [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)] [[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]
+### Reinforcement Learning Specialization (University of Alberta & Alberta Machine Intelligence Institute) [[Specialization Homepage](https://www.coursera.org/specializations/reinforcement-learning)] [[View Certificate](https://www.coursera.org/verify/specialization/CWUW9VCJAC87)]
  - Fundamentals of Reinforcement Learning [[View Certificate](https://www.coursera.org/verify/TZHMF2S7QVBA)]
  - Sample-based Learning Methods [[View Certificate](https://www.coursera.org/verify/4LN3E2QDNBBV)]
  - Prediction and Control with Function Approximation [[View Certificate](https://www.coursera.org/verify/C55547MSTBAY)]
