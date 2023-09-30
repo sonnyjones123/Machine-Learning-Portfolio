@@ -4,7 +4,7 @@ This repository displays the current projects that I have worked on related to D
 
 ## Projects
 
-### Lunar Lander Reinforcement Learning Agent
+### Lunar Lander Reinforcement Learning Agent [[View Project](https://www.coursera.org/learn/complete-reinforcement-learning-system)]
 - Created a reinforcement learning to learn how to land on a simulated moon.
 - Keywords: Reinforcement Learning, Function Approximation, NN, SARSA 
 
