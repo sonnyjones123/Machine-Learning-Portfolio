@@ -11,7 +11,7 @@ This repository displays the current projects that I have worked on related to D
 ---
 
 ### Predicting Property Rental Prices [[View Project](https://app.datacamp.com/workspace/w/1a7460a2-c399-4343-9a48-6d6856768055)]
-- Developed and analyzed a system to predict property rental prices from housing data.
+- Developed machine learning models to predict property rental prices from housing data.
 - Sklearn, Modeling, Regression, Decision Trees
 
 ---
