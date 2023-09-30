@@ -12,7 +12,13 @@ This repository displays the current projects that I have worked on related to D
 
 ### Predicting Property Rental Prices [[View Project](https://app.datacamp.com/workspace/w/1a7460a2-c399-4343-9a48-6d6856768055)]
 - Developed and analyzed a system to predict property rental prices from housing data.
-- Sklearn, Modeling
+- Sklearn, Modeling, Regression, Decision Trees
+
+---
+
+### Predicting Credit Card Approvals [[View Project](https://app.datacamp.com/workspace/w/09444c1a-dc78-4525-a510-0a9b048331e3)] 
+- Developed machine learning models based on previous approval data to predict credit card approval.
+- Sklearn, Modeling, Regression
 
 ---
 
